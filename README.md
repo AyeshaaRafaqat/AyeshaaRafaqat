@@ -40,6 +40,13 @@
   https://github.com/AyeshaaRafaqat/Ripple
 
 ---
+### 🧩 Full-Stack Systems
+
+- **LearnPilot**  
+  Full-stack JavaScript application for structured learning workflows  
+  https://github.com/AyeshaaRafaqat/LearnPilot
+
+---
 
 ## Tech Stack
 
