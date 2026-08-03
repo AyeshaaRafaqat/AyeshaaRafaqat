@@ -1,7 +1,8 @@
 # Ayesha Rafaqat
 
 
-Backend Developer & System Architect specializing in Node.js, NestJS, and high-performance database architectures.
+Backend Developer
+Node.js, NestJS, and high-performance database architectures.
 
 [LinkedIn](https://www.linkedin.com/in/ayesharafaqat/) &nbsp;·&nbsp; [Email](mailto:ayesharafaqatkap@gmail.com)
 
