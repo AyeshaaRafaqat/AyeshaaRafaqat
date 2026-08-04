@@ -19,7 +19,7 @@ Node.js, NestJS, and high-performance database architectures.
 
 ### Projects
 
-- **[Pyxis](https://github.com/AyeshaaRafaqat/pyxis)** — AI-driven technical interview platform featuring multi-database (PostgreSql/pgvector, MongoDB, Neo4j) synchronization and semantic search.
+
 - **[LearnPilot](https://github.com/AyeshaaRafaqat/LearnPilot)** — Modular learning-path generator enforcing strict OOP patterns over a decoupled 3-tier architecture.
 - **[ApexGovAI](https://github.com/AyeshaaRafaqat/ApexGovAI)** — AI-powered governance & security analysis system.
 - **[CyberSecurity](https://github.com/AyeshaaRafaqat/CyberSecurity)** — Hands-on web security labs exploring vulnerabilities and MITRE ATT&CK mappings.
