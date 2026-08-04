@@ -22,7 +22,6 @@ Node.js, NestJS, and high-performance database architectures.
 
 - **[LearnPilot](https://github.com/AyeshaaRafaqat/LearnPilot)** — Modular learning-path generator enforcing strict OOP patterns over a decoupled 3-tier architecture.
 - **[ApexGovAI](https://github.com/AyeshaaRafaqat/ApexGovAI)** — AI-powered governance & security analysis system.
-- **[CyberSecurity](https://github.com/AyeshaaRafaqat/CyberSecurity)** — Hands-on web security labs exploring vulnerabilities and MITRE ATT&CK mappings.
 - **[TranslatorGO](https://github.com/AyeshaaRafaqat/TranslatorGO)** — Context-aware English-Urdu translation engine powered by LLM APIs.
 - **[metroConnect](https://github.com/AyeshaaRafaqat/metroConnect)** — Graph-based transit routing using Dijkstra's algorithm.
 - **[Ripple](https://github.com/AyeshaaRafaqat/Ripple)** — Python-based messaging and session-handling system.
